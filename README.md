@@ -17,6 +17,7 @@ DApp schema above is a (DeFi) platform built on the Ethereum blockchain. It aims
 
 In summary, above mentioned DApp works by pooling users' funds, automatically allocating them to the highest-yielding DeFi protocols, and distributing the earned interest and rewards back to users. The platform should be governed by its native token, which allows token holders to participate in the decision-making process.
 
+<br />
 
 **Example from a schema**
 
