@@ -3,7 +3,7 @@
 
 <br />
 
-**DeFi DApp Architecture**
+**DeFi DApp Architecture.**
 
 <br />
 
@@ -25,7 +25,7 @@ In summary, above mentioned DApp works by pooling users' funds, automatically al
 <br />
 <br />
 
-**Example from the schema**
+**Example from the schema.**
 
 <br />
 
