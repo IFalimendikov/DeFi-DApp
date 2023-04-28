@@ -1,7 +1,10 @@
 
 ![image](https://user-images.githubusercontent.com/113106548/235148652-b3a129e4-9de8-486f-8350-abc4f1d92062.png)
+
 <br />
+
 **DeFi DApp Architecture**
+
 <br />
 
 DApp schema above is a (DeFi) platform built on the Ethereum blockchain. It aims to simplify and optimize yield farming (earning interest or rewards) by automatically allocating users' funds to the highest-yielding protocols in the DeFi ecosystem. DApp works through a combination of smart contracts, governance tokens, and a community-driven development model. This DApp should have a list of below listed functionalities:
@@ -23,6 +26,7 @@ In summary, above mentioned DApp works by pooling users' funds, automatically al
 <br />
 
 **Example from the schema**
+
 <br />
 
 On a schema there's an example of a DApp functionality with ETH and DAI pools yield farming. 
