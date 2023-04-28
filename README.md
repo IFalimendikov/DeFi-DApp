@@ -22,7 +22,7 @@ In summary, above mentioned DApp works by pooling users' funds, automatically al
 <br />
 <br />
 
-**Example from a schema**
+**Example from the schema**
 <br />
 
 On a schema there's an example of a DApp functionality with ETH and DAI pools yield farming. 
