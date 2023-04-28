@@ -21,7 +21,6 @@ In summary, above mentioned DApp works by pooling users' funds, automatically al
 
 <br />
 <br />
-
 **Example from the schema**
 <br />
 
