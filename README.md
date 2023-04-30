@@ -29,7 +29,7 @@ In summary, above mentioned DApp works by pooling users' funds, automatically al
 
 <br />
 
-On a schema there's an example of a DApp functionality with ETH and DAI pools yield farming. 
+On the schema there's an example of a DApp functionality with ETH and DAI pools yield farming. 
 
 In the current strategy after a user deposits ETH into the Vault, the ETH is put into a MakerDAO lending platform as collateral. By supplying ETH collateral to MakerDAO the ETH strategy can borrow DAI at 200% collateralization ratio.
 
